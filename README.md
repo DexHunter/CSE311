@@ -1,6 +1,6 @@
 ## CSE311 Mobile Computing
 
-* The slides introduce some bad practices, I try to use better practices according to official docs instead in my own assignments
+* The slides introduce some bad practices, I try to use better practices according to official docs in my own implementation, but feel free to follow the teacher
 * The assignments are pretty easy
 * This repo is for reference purpose ONLY
 
